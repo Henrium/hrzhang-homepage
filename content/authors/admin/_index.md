@@ -22,7 +22,7 @@ bio: I am a first-year Ph.D. student focusing on data-driven engineering design.
 
 interests:
 - Materials Informatics
-- Engineering Desing
+- Engineering Design
 
 education:
   courses:
@@ -74,5 +74,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a first-year Ph.D. student in the Department of Mechanical Engineering at Northwestern University. I am very fortunate to be advised by Prof. Wei Chen. Prior to that, I received my B.S. with honors from Shanghai Jiao Tong University, where I studied Materials Science & Engineering and Computer Science.
+I am a first-year Ph.D. student in the Department of Mechanical Engineering at Northwestern University. I am very fortunate to be advised by Prof. Wei Chen. Prior to that, I received my B.S. with honors from Shanghai Jiao Tong University, where I worked with Prof. Hong Wang in the field of data-driven materials discovery.
