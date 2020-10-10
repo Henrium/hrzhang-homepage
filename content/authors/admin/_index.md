@@ -15,7 +15,7 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: Northwestern University
-  url: ""
+  url: "https://www.northwestern.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a first-year Ph.D. student focusing on data-driven engineering design.
@@ -75,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a first-year Ph.D. student in the Department of Mechanical Engineering at Northwestern University. I am very fortunate to be advised by Prof. Wei Chen. Prior to that, I received my B.S. with honors from Shanghai Jiao Tong University, where I studied Materials Science & Engineering and Computer Science.
