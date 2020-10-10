@@ -29,7 +29,7 @@ education:
   - course: PhD in Mechanical Engineering
     institution: Northwestern University
     year: 2025
-  - course: BSc (Hons) in Materials Science & Engineering
+  - course: BS (Hons) in Materials Science & Engineering
     institution: Shanghai Jiao Tong University
     year: 2020
   - course: BEng in Computer Science & Technology
