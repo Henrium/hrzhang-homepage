@@ -50,7 +50,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=MqwmhWYAAAAJ
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/hr-zhang/?locale=en_US
 - icon: researchgate
